@@ -195,7 +195,7 @@ df.head()
 
 
 ### Connect to Database
-You can obtain the connection details from the 
+You can obtain the connection details from [Azure Portal](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal), [Azure PowerShell](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-powershell) or [Azure CLI](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-cli)
 
 
 ```python
